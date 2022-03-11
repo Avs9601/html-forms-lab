@@ -6,5 +6,8 @@ form * {
 
 #checkbox {
   display:inline;
+ }
 
-}
+ #checkboxlabel {
+   text-align: center;
+ }
